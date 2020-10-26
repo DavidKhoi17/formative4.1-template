@@ -27,5 +27,26 @@ footer .copyright {
   background-color: orange;
   width: 100%;
   margin: 0;
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+}
+
+footer .copyright span {
+  margin-left: 0.5em;
+}
+
+.items {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.items h2 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.items p {
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
